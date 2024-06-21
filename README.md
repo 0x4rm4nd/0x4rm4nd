@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm 0x5chn0uf! Fullstack & Blockchain Engineer
 
-<!--
-**0x5chn0uf/0x5chn0uf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Skills:
 
-Here are some ideas to get you started:
+Languages: Solidity, JavaScript, Python, Rust
+Tools: Docker, Git command line, and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education:
+Master's in Digital Engineering from the Institut Supérieur d'Electronique de Paris
+
+🌐 Areas of Interest:
+
+Artificial Intelligence (AI)
+Web3
+🚀 Passions:
+
+Participating in DeFi protocols
+📲 Social Media:
+
+X (formerly Twitter): @0x5chn0uf
+I am passionate about innovation and cutting-edge technologies, particularly those transforming the digital landscape like blockchain and artificial intelligence. Always seeking new challenges, I enjoy contributing to open-source projects and collaborating with the tech community to build a decentralized future.
+
+Feel free to explore my projects and contact me for collaborations or discussions on fullstack and blockchain development.
