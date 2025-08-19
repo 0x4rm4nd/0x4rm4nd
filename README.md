@@ -12,8 +12,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=0x5chn0uf&theme=dark)![Top Languages](https://github-readme-stats.vercel.app/?username=0x5chn0uf&show_icons=true&theme=dark&count_private=true&hide_stars=true)
+<div align="center">
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x5chn0uf&theme=github-compact&days=15)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x5chn0uf)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=0x5chn0uf&theme=dark)
+
+</div>
 💻 Technical Skills:
 
 **Languages**: Python, JavaScript/TypeScript, Rust, Solidity
@@ -50,6 +57,6 @@ Building systems that scale and solve real problems.
 Trading and participating in DeFi protocols.
 And outside of the screens, meet me on the water 😉
 
-I am passionate about innovation and cutting-edge technologies, particularly those transforming the digital landscape like AI and blockchain. I thrive on turning complex problems into scalable solutions, whether it's serverless microservices or containerized backends. Always seeking new challenges, I enjoy mentoring teams and contributing to the tech community.
+I am passionate about innovation and cutting-edge technologies, particularly those transforming the digital landscape like AI and blockchain. Always seeking new challenges, I enjoy contributing to the tech community.
 
 Feel free to explore my projects and contact me for collaborations or discussions on backend and fullstack development.
