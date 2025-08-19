@@ -2,11 +2,17 @@
 
 *Turning complex problems into scalable solutions, one microservice at a time*
 
+---
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=armand-go&theme=dark)![Top Languages](https://github-readme-stats.vercel.app/?username=armand-go&show_icons=true&theme=dark&count_private=true&hide_stars=true)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=0x5chn0uf&theme=dark)![Top Languages](https://github-readme-stats.vercel.app/?username=0x5chn0uf&show_icons=true&theme=dark&count_private=true&hide_stars=true)
 
 💻 Technical Skills:
 
