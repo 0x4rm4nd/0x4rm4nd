@@ -1,4 +1,4 @@
-👋 Hi there, I'm 0x5chn0uf! Backend Engineer & Builder at Heart
+👋 Hi there, I'm 0x5chn0uf!
 
 *Turning complex problems into scalable solutions, one microservice at a time*
 
