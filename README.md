@@ -36,6 +36,8 @@
 
 **Tools**: Git, GitHub Actions, CI/CD, Domain-Driven Design (DDD)
 
+---
+
 ### 🌐 Areas of Interest:
 
 Artificial Intelligence (AI) & ML integration in production systems
@@ -44,13 +46,19 @@ Web3 & Blockchain technologies
 
 Scalable microservices architecture
 
+---
+
 ### 📚 Currently Learning:
 
 Event-driven Architecture
 
+---
+
 ### 🔨 What I'm Building:
 
 SmartWalletFX - A comprehensive portfolio tracker built with FastAPI, Node.js, and React. Using Claude Code with different implementation patterns (hive mind, memory bank)
+
+---
 
 ### 🚀 Passions:
 
