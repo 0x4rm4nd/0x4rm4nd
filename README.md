@@ -21,7 +21,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=0x5chn0uf&theme=dark)
 
 </div>
-💻 Technical Skills:
+###💻 Technical Skills:
 
 **Languages**: Python, JavaScript/TypeScript, Rust, Solidity
 
@@ -35,7 +35,7 @@
 
 **Tools**: Git, GitHub Actions, CI/CD, Domain-Driven Design (DDD)
 
-🌐 Areas of Interest:
+###🌐 Areas of Interest:
 
 Artificial Intelligence (AI) & ML integration in production systems
 
@@ -43,15 +43,15 @@ Web3 & Blockchain technologies
 
 Scalable microservices architecture
 
-📚 Currently Learning:
+###📚 Currently Learning:
 
 Event-driven Architecture
 
-🔨 What I'm Building:
+###🔨 What I'm Building:
 
 SmartWalletFX - A comprehensive portfolio tracker built with FastAPI, Node.js, and React. Using Claude Code with different implementation patterns (hive mind, memory bank)
 
-🚀 Passions:
+###🚀 Passions:
 
 Building systems that scale and solve real problems.
 Trading and participating in DeFi protocols.
