@@ -10,18 +10,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x4rm4nd&theme=github-compact&days=15)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x4rm4nd](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=0x4rm4nd&theme=dark)
-
-</div>
-
 ### 💻 Technical Skills:
 
 **Languages**: Python, JavaScript/TypeScript, Rust, Solidity
