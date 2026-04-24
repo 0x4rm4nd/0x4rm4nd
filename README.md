@@ -1,6 +1,6 @@
 Hi, I'm 0x4rm4nd
 
-Lead/Senior Backend Engineer specialized in data infrastructure, AI agent systems, and blockchain integrations. I buildproduction systems end-to-end, from pipeline architecture to product, with strong experience in cloud-native backends, observability, and distributed data.
+Lead/Senior Backend Engineer specialized in data infrastructure, AI agent systems, and blockchain integrations. I build production systems end-to-end, from pipeline architecture to product, with strong experience in cloud-native backends, observability, and distributed data.
 
 Currently Senior Backend Engineer at [Cloud ExMachina](https://www.cloudexmachina.io/), helping teams take control of their cloud to achieve peak efficiency and performance without overspending.
 
