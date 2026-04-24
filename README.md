@@ -23,7 +23,7 @@ LLM agent infrastructure with tool execution environments, guardrails, and pydan
 automated cloud cost analysis and remediation recommendations at scale.
 
 **Blockchain & On-Chain Analytics**
-Smart contract development on EVM and Solana. Analytics dashboards over on-chain data — protocol integrations across DEXs
+Smart contract development on EVM and Solana. Analytics dashboards over on-chain data, protocol integrations across DEXs
 and lending markets. Both professional and personal projects.
 
 **Backend APIs & Services**
