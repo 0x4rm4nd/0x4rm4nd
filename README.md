@@ -32,14 +32,14 @@ reliability, and performance.
 
 ### Core Stack
 
-**Languages**: Python, TypeScript, Rust, Solidity
-**Frameworks**: FastAPI, Next.js, Node.js, Django
-**Orchestration**: Dagster, Hatchet
-**Data**: DBT, PostgreSQL, Redis, DuckDB
-**Cloud**: AWS (ECS/Fargate, Lambda, S3, CloudWatch), GCP
-**AI/ML**: pydantic-ai, LLM tool orchestration, agent pipelines
-**Blockchain**: EVM (Solidity), Solana, DEX/lending protocol integrations
-**Tooling**: Docker, Terraform, GitHub Actions, Alembic
+- **Languages**: Python, TypeScript, Rust, Solidity
+- **Frameworks**: FastAPI, Next.js, Node.js, Django
+- **Orchestration**: Dagster, Hatchet
+- **Data**: DBT, PostgreSQL, Redis, DuckDB
+- **Cloud**: AWS (ECS/Fargate, Lambda, S3, CloudWatch), GCP
+- **AI/ML**: pydantic-ai, LLM tool orchestration, agent pipelines
+- **Blockchain**: EVM (Solidity), Solana, DEX/lending protocol integrations
+- **Tooling**: Docker, Terraform, GitHub Actions, Alembic
 
 ---
 
