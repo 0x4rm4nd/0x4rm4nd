@@ -1,6 +1,6 @@
 Hi, I'm 0x4rm4nd
 
-Senior backend engineer focused on designing reliable, high-throughput services and data systems. I build production systems with Python and TypeScript, with strong experience in cloud-native architecture, observability, and CI/CD.
+Lead/Senior Backend Engineer specialized in data infrastructure, AI agent systems, and blockchain integrations. I buildproduction systems end-to-end, from pipeline architecture to product, with strong experience in cloud-native backends, observability, and distributed data.
 Currently Senior Backend Engineer at [Cloud ExMachina](https://www.cloudexmachina.io/), helping teams take control of their cloud to achieve peak efficiency and performance without overspending.
 
 ---
@@ -11,32 +11,46 @@ Currently Senior Backend Engineer at [Cloud ExMachina](https://www.cloudexmachin
 
 </div>
 
-### Technical Focus
+### What I Build
 
-- Backend systems, microservices, and event-driven architecture
-- Scalable APIs, distributed data pipelines, and high-availability services
-- Production observability, reliability, and performance tuning
+**Data Infrastructure & Pipelines**
+Multi-source ingestion pipelines (AWS APIs, external data sources) → transformation (DBT, 7-layer architecture) → analytics
+API (CubeJS) → frontend. Full traceability, schema migrations with Alembic, orchestration with Dagster.
+
+**AI Agent Systems**
+LLM agent infrastructure with tool execution environments, guardrails, and pydantic-ai orchestration. Currently powering
+automated cloud cost analysis and remediation recommendations at scale.
+
+**Blockchain & On-Chain Analytics**
+Smart contract development on EVM and Solana. Analytics dashboards over on-chain data — protocol integrations across DEXs
+and lending markets. Both professional and personal projects.
+
+**Backend APIs & Services**
+High-throughput FastAPI services, event-driven architecture, multi-tenant SaaS backends. Strong focus on observability,
+reliability, and performance.
 
 ### Core Stack
 
-**Languages**: Python, TypeScript/JavaScript, Rust, Solidity  
-**Frameworks**: FastAPI, Django, Node.js  
-**Cloud**: AWS (Lambda, API Gateway, S3, CloudWatch), GCP (Cloud Run, Kubernetes, BigQuery)  
-**Datastores**: PostgreSQL, MongoDB, Redis  
-**Data & Processing**: PySpark, Airflow, ETL pipelines  
-**Tooling**: Docker, GitHub Actions, CI/CD, Domain-Driven Design (DDD)
+**Languages**: Python, TypeScript, Rust, Solidity
+**Frameworks**: FastAPI, Next.js, Node.js, Django
+**Orchestration**: Dagster, Hatchet
+**Data**: DBT, PostgreSQL, Redis, DuckDB
+**Cloud**: AWS (ECS/Fargate, Lambda, S3, CloudWatch), GCP
+**AI/ML**: pydantic-ai, LLM tool orchestration, agent pipelines
+**Blockchain**: EVM (Solidity), Solana, DEX/lending protocol integrations
+**Tooling**: Docker, Terraform, GitHub Actions, Alembic
 
 ---
 
 ### Current Work
 
-**SmartWalletFX** - Portfolio tracker built with FastAPI, Node.js, and React.
+**Cloud ex Machina** — Building the full data and AI stack for a cloud cost intelligence platform: crawlers ingesting from AWS, multi-layer DBT transformations, AI agents generating and validating cost optimization recommendations, delivered via a multi-tenant SaaS product.
 
 ---
 
 ### Interests
 
-AI/ML integration in production systems, Web3 infrastructure, and scalable backend platforms.
+AI infrastructure in production systems, on-chain data and protocol analytics, high-integrity data pipelines, and scalable backend platforms.
 
 ---
 
